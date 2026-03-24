@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **ML , DL , SQL , Power BI**
+- 💬 Ask me about **Automation , CI/CD , SQL , Docker , Kubernetes , Terraform, Azure**
 
 - 📫 How to reach me **kunald9172@gmail.com**
 
