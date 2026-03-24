@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*cPrF_XMe7U6atYgM.gif)
+![MasterHead](https://www.profisea.com/wp-content/uploads/2024/03/DevOps-Interview-2024-img-1.jpg)
 <h1 align="center">Hello 👋, I'm Kunal Deshmukh</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
